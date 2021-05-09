@@ -65,6 +65,9 @@
 <br>
 <br>
 
+# Spotify Playing Now
+
+[<img src="https://spotify-vercel-eight.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/or2jqumtnvh91tfwuz9w8zs2p)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
