@@ -70,4 +70,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
 
-
+![dino](https://user-images.githubusercontent.com/78875977/117575223-98103680-b0e9-11eb-8a58-fb62abc5f697.gif)
