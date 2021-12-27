@@ -1,11 +1,5 @@
-<div align="center">
-<img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2016/03/09/09/17/desktop-1245714_1280.jpg" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align="center">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bleyobeth.bleyobeth)
 
 </p>
 <div size='20px'> Hi! My name is Kirill. Thank You for taking the time to view my GitHub Profile!
@@ -41,6 +35,8 @@
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bleyobeth&layout=compact&theme=midnight-purple)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bleyobeth&show_icons=true&theme=midnight-purple )
 
