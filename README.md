@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bleyobeth" alt="bleyobeth"/></a>
 
-<a href="https://twitter.com/powergrabn"  target="blank"><img src="https://img.shields.io/twitter/follow/powergrabn?logo=twitter&style=for-the-badge" alt="powergrabn"></a>
+<a href="https://twitter.com/powergrabn" target="blank"><img src="https://img.shields.io/twitter/follow/powergrabn?logo=twitter&style=for-the-badge" alt="powergrabn"></a>
 </p>
 
 - ⚡ **I'm not looking for easy ways :3**
@@ -14,8 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/phineg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/15486238"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/Benilyn"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+<a href="mailto:taligynn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+" alt=""></a>
+<a href="https://t.me/vindyt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+" alt=""></a>
 </p>
 
 
