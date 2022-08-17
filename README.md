@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">Front-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bleyobeth&label=Profile%20views&color=298eff&style=plastic" alt="bleyobeth" /> </p>
+<p>
+<a><img src="https://komarev.com/ghpvc/?username=bleyobeth&label=Profile%20views&color=298eff&style=plastic" alt="bleyobeth"/></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bleyobeth" alt="bleyobeth" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bleyobeth" alt="bleyobeth"/></a>
 
-<p align="left"> <a href="https://twitter.com/powergrabn"  target="blank"><img src="https://img.shields.io/twitter/follow/powergrabn?logo=twitter&style=for-the-badge" alt="powergrabn" /><a></p>
+<a href="https://twitter.com/powergrabn"  target="blank"><img src="https://img.shields.io/twitter/follow/powergrabn?logo=twitter&style=for-the-badge" alt="powergrabn"></a>
+
+</p>
 
 - ⚡ **I'm not looking for easy ways :3**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/powergrabn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p></p><a href="https://twitter.com/powergrabn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/15486238"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 "></a>
 <a href="https://www.reddit.com/user/Benilyn"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
-"></a>
+"></a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
