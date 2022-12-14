@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bleyobeth&theme=dark" alt="bleyobeth"/></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tabangaol"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tabangaol" /></a><a href="https://ko-fi.com/fonee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fonee" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/tabangaol"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tabangaol" /></a><a href="https://ko-fi.com/fonee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fonee" /></a></p><br><br><br>
 
 <h3 align="left">Spotify:</h3>
 <p><a href="https://open.spotify.com/user/31yvp5yno6neterwmdy24lf66qn4"><img src="https://test-h8vo5pheq-bleyobeth.vercel.app/api/spotify" alt="Spotify"></a></p><br>
