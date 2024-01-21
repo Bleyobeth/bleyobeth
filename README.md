@@ -40,4 +40,4 @@
 <p><img src="https://github.r2v.ch/codewars?user=tweedlex&amp;name=true&amp;top_languages=true&amp;stroke=%23b362ff&amp;theme=gradient_purple_dark_by_level" alt="Codewars"></p>
 
 <h3 align="left">Leetcode:</h3>
-<p><img src="https://leetcard.jacoblin.cool/ssinda?theme=unicorn&amp;font=Merienda&amp;ext=heatmap" alt="Leetcode Stats"></p>
+<p><img src="https://leetcard.jacoblin.cool/ssinda?theme=dark&amp;font=Rokkitt&amp;ext=heatmap" alt="Leetcode Stats"></p>
